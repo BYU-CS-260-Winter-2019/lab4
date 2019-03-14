@@ -13,6 +13,7 @@ To visualize all the items, modify `index.html` so that it contains the followin
         <h2>{{item.title}}</h2>
         <img :src="item.path" />
       </div>
+    </section>
   </div>
 ```
 
